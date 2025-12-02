@@ -124,12 +124,7 @@ th {
 }
 
 footer {
-    margin-top: 16px;
-    text-align: center;
-    font-size: 13px;
-    color: #666;
-    border-top: 1px dashed #e6ebf5;
-    padding-top: 10px;
+    display: hidden;
 }
 
 .box {
@@ -198,4 +193,5 @@ fieldset {
 legend {
     font-weight: bold;
     padding: 0 10px
+
 }
